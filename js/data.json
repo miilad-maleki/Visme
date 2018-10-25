@@ -1,0 +1,296 @@
+directoryData = [
+	{
+		"name": "Alabama",
+		"abbreviation": "AL",
+		"position": ""
+	},
+	{
+		"name": "Alaska",
+		"abbreviation": "AK",
+		"position": "1"
+
+	},
+	{
+		"name": "American Samoa",
+		"abbreviation": "AS",
+		"position": ""
+
+	},
+	{
+		"name": "Arizona",
+		"abbreviation": "AZ",
+		"position": "1"
+	},
+	{
+		"name": "Arkansas",
+		"abbreviation": "AR",
+		"position": ""
+	},
+	{
+		"name": "California",
+		"abbreviation": "CA",
+		"position": "1"
+	},
+	{
+		"name": "Colorado",
+		"abbreviation": "CO",
+		"position": "1"
+	},
+	{
+		"name": "Connecticut",
+		"abbreviation": "CT",
+		"position": ""
+	},
+	{
+		"name": "Delaware",
+		"abbreviation": "DE"
+	},
+	{
+		"name": "District Of Columbia",
+		"abbreviation": "DC",
+		"position": ""
+	},
+	{
+		"name": "Micronesia",
+		"abbreviation": "FM",
+		"position": ""
+	},
+	{
+		"name": "Florida",
+		"abbreviation": "FL",
+		"position": ""
+	},
+	{
+		"name": "Georgia",
+		"abbreviation": "GA",
+		"position": ""
+	},
+	{
+		"name": "Guam",
+		"abbreviation": "GU",
+		"position": ""
+	},
+	{
+		"name": "Hawaii",
+		"abbreviation": "HI",
+		"position": "1"
+	},
+	{
+		"name": "Idaho",
+		"abbreviation": "ID",
+		"position": "1"
+	},
+	{
+		"name": "Illinois",
+		"abbreviation": "IL",
+		"position": ""
+	},
+	{
+		"name": "Indiana",
+		"abbreviation": "IN",
+		"position": ""
+	},
+	{
+		"name": "Iowa",
+		"abbreviation": "IA",
+		"position": ""
+	},
+	{
+		"name": "Kansas",
+		"abbreviation": "KS",
+		"position": ""
+	},
+	{
+		"name": "Kentucky",
+		"abbreviation": "KY",
+		"position": ""
+	},
+	{
+		"name": "Louisiana",
+		"abbreviation": "LA"
+	},
+	{
+		"name": "Maine",
+		"abbreviation": "ME",
+		"position": ""
+	},
+	{
+		"name": "Marshall Islands",
+		"abbreviation": "MH",
+		"position": ""
+	},
+	{
+		"name": "Maryland",
+		"abbreviation": "MD",
+		"position": ""
+	},
+	{
+		"name": "Massachusetts",
+		"abbreviation": "MA",
+		"position": ""
+	},
+	{
+		"name": "Michigan",
+		"abbreviation": "MI",
+		"position": ""
+	},
+	{
+		"name": "Minnesota",
+		"abbreviation": "MN",
+		"position": ""
+	},
+	{
+		"name": "Mississippi",
+		"abbreviation": "MS",
+		"position": ""
+	},
+	{
+		"name": "Missouri",
+		"abbreviation": "MO",
+		"position": ""
+	},
+	{
+		"name": "Montana",
+		"abbreviation": "MT",
+		"position": "1"
+	},
+	{
+		"name": "Nebraska",
+		"abbreviation": "NE",
+		"position": ""
+	},
+	{
+		"name": "Nevada",
+		"abbreviation": "NV",
+		"position": "1"
+	},
+	{
+		"name": "New Hampshire",
+		"abbreviation": "NH",
+		"position": ""
+	},
+	{
+		"name": "New Jersey",
+		"abbreviation": "NJ",
+		"position": ""
+	},
+	{
+		"name": "New Mexico",
+		"abbreviation": "NM",
+		"position": "1"
+	},
+	{
+		"name": "New York",
+		"abbreviation": "NY",
+		"position": ""
+	},
+	{
+		"name": "North Carolina",
+		"abbreviation": "NC",
+		"position": ""
+	},
+	{
+		"name": "North Dakota",
+		"abbreviation": "ND",
+		"position": ""
+	},
+	{
+		"name": "Northern Mariana Islands",
+		"abbreviation": "MP",
+		"position": ""
+	},
+	{
+		"name": "Ohio",
+		"abbreviation": "OH",
+		"position": ""
+	},
+	{
+		"name": "Oklahoma",
+		"abbreviation": "OK",
+		"position": ""
+	},
+	{
+		"name": "Oregon",
+		"abbreviation": "OR",
+		"position": "1"
+	},
+	{
+		"name": "Palau",
+		"abbreviation": "PW",
+		"position": ""
+	},
+	{
+		"name": "Pennsylvania",
+		"abbreviation": "PA",
+		"position": ""
+	},
+	{
+		"name": "Puerto Rico",
+		"abbreviation": "PR",
+		"position": ""
+	},
+	{
+		"name": "Rhode Island",
+		"abbreviation": "RI",
+		"position": ""
+	},
+	{
+		"name": "South Carolina",
+		"abbreviation": "SC",
+		"position": ""
+	},
+	{
+		"name": "South Dakota",
+		"abbreviation": "SD",
+		"position": ""
+	},
+	{
+		"name": "Tennessee",
+		"abbreviation": "TN",
+		"position": ""
+	},
+	{
+		"name": "Texas",
+		"abbreviation": "TX",
+		"position": ""
+	},
+	{
+		"name": "Utah",
+		"abbreviation": "UT",
+		"position": "1"
+	},
+	{
+		"name": "Vermont",
+		"abbreviation": "VT",
+		"position": ""
+	},
+	{
+		"name": "Virgin Islands",
+		"abbreviation": "VI",
+		"position": ""
+	},
+	{
+		"name": "Virginia",
+		"abbreviation": "VA",
+		"position": ""
+	},
+	{
+		"name": "Washington",
+		"abbreviation": "WA",
+		"position": "1"
+	},
+	{
+		"name": "West Virginia",
+		"abbreviation": "WV",
+		"position": ""
+	},
+	{
+		"name": "Wisconsin",
+		"abbreviation": "WI",
+		"position": ""
+	},
+	{
+		"name": "Wyoming",
+		"abbreviation": "WY",
+		"position": "1"
+	}]

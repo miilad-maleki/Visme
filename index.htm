@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>US States</title>
+	<link href="css/bootstrap.min.css" rel="stylesheet" />
+	<link href="css/style.css" rel="stylesheet" />
+</head>
+<body>
+	<div class="container">
+		<div id="wrapper">
+			<h1><strong>UNITED</strong>STATES</h1>
+			<div class="tools">
+				<form>
+					<div class="form-row">
+						<input id="searchBox" class="form-control"  placeholder="Search">
+					</div>
+				</form>
+				<div id="filters"></div>
+			</div>
+			<table class="table table-striped list-header">
+				<thead class="thead-dark">
+					<tr>
+						<th scope="col" width="45%">State</th>
+						<th scope="col">Abbreviation</th>
+						<th scope="col">Location</th>
+					</tr>
+				</thead>
+				<tbody id="listing" >
+					<script type="text/template" id="state-template">
+						<th scope="row"><%= name %></th>
+						<td>(<%= abbreviation %>)</td>
+						<td><%= type %></td>
+					</script>
+				</tbody>
+
+			</table>
+		</div>
+	<script src="js/data.json" type="text/javascript"></script>
+	<script src="js/libs/jquery.min.js" type="text/javascript"></script>
+	<script src="js/libs/underscore.js" type="text/javascript"></script>
+	<script src="js/libs/backbone.js" type="text/javascript"></script>
+	<script src="js/app.js" type="text/javascript"></script>
+</body>
+</html>
